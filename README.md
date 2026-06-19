@@ -5,6 +5,14 @@ Este repositório foi criado com o objetivo de apresentar o **mapeamento de cen�
 O foco deste projeto é demonstrar a aplicação prática de técnicas de testes manuais (Caixa-Preta) bem estruturadas, que servirão como base sólida para uma futura automação de testes funcionais E2E.
 
 ---
+## Sistema Testado
+
+OrangeHRM Demo
+
+URL:
+https://opensource-demo.orangehrmlive.com/
+
+---
 
 ## 🧠 Estratégia de Testes & Técnicas Utilizadas
 
@@ -32,15 +40,15 @@ Para garantir a qualidade e a cobertura eficiente do fluxo de login sem redundâ
 
 ## Cobertura dos Cenários
 
-| Cenário | Status |
-|----------|----------|
-| Login com credenciais válidas | ✅ |
-| Usuário inválido | ✅ |
-| Senha inválida | ✅ |
-| Usuário e senha inválidos | ✅ |
-| Campos vazios | ✅ |
-| Usuário vazio | ✅ |
-| Senha vazia | ✅ |
+| Caso de Teste | Cenário | Status |
+|--------------|----------|----------|
+| CT-LOGIN-01 | Senha inválida | ✅ |
+| CT-LOGIN-02 | Usuário inválido | ✅ |
+| CT-LOGIN-03 | Usuário e senha inválidos | ✅ |
+| CT-LOGIN-04 | Login com sucesso | ✅ |
+| CT-LOGIN-05 | Campos vazios | ✅ |
+| CT-LOGIN-06 | Usuário vazio | ✅ |
+| CT-LOGIN-07 | Senha vazia | ✅ |
 
 ---
 
