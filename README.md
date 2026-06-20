@@ -1,4 +1,4 @@
-# Mapeamento de Cenários de Teste: Fluxo de Login (OrangeHRM) 🎯
+# Mapeamento de Cenários de Teste: Fluxo de Login (OrangeHRM) 
 
 Este repositório foi criado com o objetivo de apresentar o **mapeamento de cenários de teste** para a funcionalidade de autenticação (Login) da plataforma OrangeHRM Demo. 
 
@@ -14,7 +14,7 @@ https://opensource-demo.orangehrmlive.com/
 
 ---
 
-## 🧠 Estratégia de Testes & Técnicas Utilizadas
+##  Estratégia de Testes & Técnicas Utilizadas
 
 Para garantir a qualidade e a cobertura eficiente do fluxo de login sem redundâncias, foram aplicadas as seguintes abordagens de Engenharia de QA:
 
@@ -24,7 +24,7 @@ Para garantir a qualidade e a cobertura eficiente do fluxo de login sem redundâ
 
 ---
 
-## 📋 Casos de Teste Mapeados
+##  Casos de Teste Mapeados
 
 | ID | Título | Objetivo | Pré-Condição | Passos | Dados de Entrada | Resultado Esperado |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ Para garantir a qualidade e a cobertura eficiente do fluxo de login sem redundâ
 
 ---
 
-## 🛠️ Próximos Passos (Roadmap de Automação)
+##  Próximos Passos (Roadmap de Automação)
 - [ ] Configuração do ambiente de testes automatizados.
 - [ ] Criação dos scripts de automação utilizando **Cypress** e **JavaScript**.
 - [ ] Geração de relatórios de execução de testes.
