@@ -16,7 +16,7 @@ https://opensource-demo.orangehrmlive.com/
 
 ##  Estratégia de Testes & Técnicas Utilizadas
 
-Para garantir a qualidade e a cobertura eficiente do fluxo de login sem redundâncias, foram aplicadas as seguintes abordagens de Engenharia de QA:
+Para garantir a qualidade e a cobertura eficiente do fluxo de login, foram aplicadas as seguintes abordagens de Engenharia de QA:
 
 *   **Particionamento de Equivalência:** Técnicas utilizadas para validar o comportamento do sistema diante de classes de dados válidas, inválidas.
 *   **Testes Positivos e Negativos:** Mapeamento desde o "Cenário Feliz" (autenticação com sucesso) até o tratamento de exceções (validação de mensagens de erro como 'Required' e 'Invalid credentials').
