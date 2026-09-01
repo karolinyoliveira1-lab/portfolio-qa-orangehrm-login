@@ -52,7 +52,23 @@ Para garantir a qualidade e a cobertura eficiente do fluxo de login, foram aplic
 
 ---
 
+## Estrutura do Repositório
+
+- **[test-cases-manual/](./test-cases-manual)** — Casos de teste manuais detalhados, organizados por cenário.
+- **[evidences/videos/](./evidences/videos)** — Evidências de execução dos testes (gravações em vídeo).
+
+---
+
 ##  Próximos Passos (Roadmap de Automação)
 - [ ] Configuração do ambiente de testes automatizados.
 - [ ] Criação dos scripts de automação utilizando **Cypress** e **JavaScript**.
 - [ ] Geração de relatórios de execução de testes.
+
+---
+
+## Sobre mim
+
+Projeto desenvolvido por Karoliny Carvalho como parte da minha transição de carreira para Quality Assurance, aplicando na prática técnicas de testes manuais e funcionais.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/karoliny-p-o-carvalho-10554b113/)
+
